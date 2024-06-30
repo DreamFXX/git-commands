@@ -1,0 +1,13 @@
+ls
+
+ls -l (long listing)
+
+ls -a (i skryté, všechno)
+
+touch - vytvořit soubor
+
+mkdir - tvorba složky
+
+rm - smazat jmenovany soubor
+
+rm -rf -- smazat slozku
