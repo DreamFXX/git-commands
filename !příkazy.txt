@@ -13,3 +13,9 @@ rm - smazat jmenovany soubor
 rm -rf -- smazat slozku
 
 git restore - odeberes zmenu z commitu
+
+git checkout - vratit se do starsi verze projektu (zadej cislo)
+
+git diff - zobraz udelane zmeny v terminalu
+
+git commit -a -> add a commit v jednom
