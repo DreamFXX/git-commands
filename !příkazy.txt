@@ -11,3 +11,5 @@ mkdir - tvorba složky
 rm - smazat jmenovany soubor
 
 rm -rf -- smazat slozku
+
+git restore - odeberes zmenu z commitu
